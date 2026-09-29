@@ -48,6 +48,8 @@ Jumlah berita dibaca: 1
 [Teknologi] Perkembangan teknologi terbaru
 Detail berita: [Teknologi] Perkembangan teknologi terbaru
 Jumlah berita dibaca: 2
+```
 
 ## Screenshot Hasil Program
+
 ![Hasil Program](screenshot/Praktikum2.png)
